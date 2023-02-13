@@ -1,7 +1,7 @@
 #include <iostream>
 #include "functions.h"
-using namespace std;
 #define N 4
+using namespace std;
 void printBoard(int board[N][N])
 {
     for (int i = 0; i < N; i++)
